@@ -17,7 +17,7 @@ La presente actividad ha sido desarrollada individualmente por Gilberto J. Marti
 
 El dataset tratado fue descargado de la siguiente URL: https://www.kaggle.com/mylesoneill/world-university-rankings/version/3#_=_
 
-## ** Licencia: **
+## **Licencia:**
 
 La licencia aplicada al presente proyecto es la Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International, y el código fuente bajo la MIT license.
 
